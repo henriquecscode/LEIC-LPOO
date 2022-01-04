@@ -1,0 +1,6 @@
+Marina,500
+Adriana,400
+Lilly,300
+Stephanie,200
+Amy,100
+Helen,0
