@@ -2,31 +2,12 @@
 
 This project was developed by:
 
-<table>
-<tr>
-<td>
 Henrique Sousa
-</td>
-<td>up201906681@fe.up.pt
-</td>
-</tr>
-<tr>
-<td>
+
 Mateus Silva
-</td>
-<td>
-up201906232@fe.up.pt
-</td>
-</tr>
-<tr>
-<td>
-Melissa Silva 
-</td>
-<td>
-up201905076@fe.up.pt
-</td>
-</tr>
-</table>
+
+Melissa Silva
+
 
 ## **Game Modes**
 
