@@ -2,11 +2,11 @@
 
 This project was developed by:
 
-Henrique Sousa
+[Henrique Sousa (Self)](https://github.com/henriquecscode)
 
-Mateus Silva
+[Mateus Silva](https://github.com/lessthelonely)
 
-Melissa Silva
+[Melissa Silva](https://github.com/melisilva)
 
 
 ## **Game Modes**
